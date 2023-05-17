@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<p style="background-color: #1f1f1f; color: #000;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artschmitz&show_icons=true&locale=en&layout=compact" alt="artschmitz" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=artschmitz&show_icons=true&locale=en&layout=compact&theme=dark" alt="artschmitz" />
+
 
 
 <h3 align="left">Languages and Tools:</h3>
